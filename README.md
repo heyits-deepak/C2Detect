@@ -107,13 +107,6 @@ streamlit run Dashboard.py
 
 ---
 
-## 👨‍💻 Author
-
-Deepak Sharma
-M.Sc. Cybersecurity, NFSU
-
----
-
 ## 📄 License
 
 MIT License
