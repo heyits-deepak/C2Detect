@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	ntlm
+#open	2025-06-04-02-27-32
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	username	hostname	domainname	server_nb_computer_name	server_dns_computer_name	server_tree_name	success
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	bool
+1313404302.652177	CBn62N2cXrXXDUpbuj	147.32.84.165	1042	147.32.84.171	139	-	SARUMAN	-	CAMNEP-SERVER	camnep-server	-	T
+1313406222.672305	CNH2Fw3eUO13FqEMZh	147.32.84.165	1083	147.32.84.171	139	-	SARUMAN	-	CAMNEP-SERVER	camnep-server	-	T
+#close	2025-06-04-02-27-35

@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	smb_mapping
+#open	2025-06-04-02-27-32
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	path	service	native_file_system	share_type
+#types	time	string	addr	port	addr	port	string	string	string	string
+1313404302.660422	CBn62N2cXrXXDUpbuj	147.32.84.165	1042	147.32.84.171	139	\\\\CAMNEP-SERVER\\IPC$	IPC	-	PIPE
+1313406222.680276	CNH2Fw3eUO13FqEMZh	147.32.84.165	1083	147.32.84.171	139	\\\\CAMNEP-SERVER\\IPC$	IPC	-	PIPE
+#close	2025-06-04-02-27-35

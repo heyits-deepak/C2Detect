@@ -1,0 +1,15 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	analyzer
+#open	2025-06-04-02-27-32
+#fields	ts	cause	analyzer_kind	analyzer_name	uid	fuid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	failure_reason	failure_data
+#types	time	string	string	string	string	string	addr	port	addr	port	string	string
+1313404357.252098	violation	protocol	SNMP	C0fkUQo8i292QkMAc	-	147.32.84.165	1043	147.32.96.69	161	Binpac exception: binpac exception: Got ASN.1 tag 203, expect 48	-
+1313404357.253248	violation	protocol	SNMP	C0fkUQo8i292QkMAc	-	147.32.84.165	1043	147.32.96.69	161	Binpac exception: binpac exception: Got ASN.1 tag 203, expect 48	-
+1313404357.263258	violation	protocol	SNMP	C0fkUQo8i292QkMAc	-	147.32.84.165	1043	147.32.96.69	161	Binpac exception: binpac exception: Got ASN.1 tag 203, expect 48	-
+1313404357.273279	violation	protocol	SNMP	C0fkUQo8i292QkMAc	-	147.32.84.165	1043	147.32.96.69	161	Binpac exception: binpac exception: Got ASN.1 tag 203, expect 48	-
+1313404357.283316	violation	protocol	SNMP	C0fkUQo8i292QkMAc	-	147.32.84.165	1043	147.32.96.69	161	Binpac exception: binpac exception: Got ASN.1 tag 203, expect 48	-
+1313404357.293531	violation	protocol	SNMP	C0fkUQo8i292QkMAc	-	147.32.84.165	1043	147.32.96.69	161	Binpac exception: binpac exception: Got ASN.1 tag 203, expect 48	-
+#close	2025-06-04-02-27-35

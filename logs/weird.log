@@ -1,0 +1,11 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2025-06-04-02-27-32
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1313404357.251933	-	147.32.84.165	0	147.32.96.69	0	fragment_overlap	-	F	zeek	-
+1313404357.252098	-	-	-	-	-	asn_binary_to_int64_shift_too_large	117	F	zeek	-
+#close	2025-06-04-02-27-35
